@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #6F69AC,#95DAC1);
+}
+a {
+    color: azure;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid azure;
+    line-height: 3rem;
+    color: azure;
+    font-size: 1.5rem;
+  }
+  .fas {
+      color: azure;
+      font-size: 3rem;
+  }
